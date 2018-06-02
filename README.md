@@ -1,4 +1,4 @@
 # goodLife
 
-An android app made using, Java.
+Java android app.
 It is made simulating a local resturant.
